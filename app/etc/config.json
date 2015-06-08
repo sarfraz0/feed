@@ -1,0 +1,12 @@
+{
+    "LOGFILE": "../var/log/feed.log",
+    "DATABASE_URI": "postgresql://cook:chef@localhost:5432/recipe",
+    "SECRET": "SET T0 4NY SECRET KEY L1KE RAND0M H4SH",
+    "APP_NAME": "Feed",
+    "APP_PORT": 2200,
+    "QT": {
+        "HORIZONTAL_RES": 800,
+        "VERTICAL_RES": 600
+    },
+    "FAVFILE": "../etc/favicon.png"
+}
